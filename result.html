@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Résultat</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <div id="container" style="display: flex;">
+
+        <!-- Left column for Plotly plot -->
+        <div id="plot" style="width: 50%;"></div>
+
+        <!-- Right column for static image -->
+        <div id="image" style="width: 50%; display: flex; justify-content: center; align-items: center;">
+            <!-- You can replace 'path_to_your_image.jpg' with the actual path to your image -->
+            <img src="static/fenetre_johari.png" style="width: 85%; height: 85%;" alt="Static Image">
+        </div>
+
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Retrieve values from query parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            const revelation = parseInt(urlParams.get('revelation')) || 0;
+            const sollicitations = parseInt(urlParams.get('sollicitations')) || 0;
+
+            // Call the graph function with the retrieved values
+            graph(revelation, sollicitations);
+        });
+
+        function graph(revelation, sollicitations) {
+            // Assuming revelation and Sollicitations are within the range of 0 to 50
+            // Adjust the values based on your actual data
+            var trace3 = {
+                x: [0, 50],
+                y: [revelation, revelation],
+                mode: 'lines',
+                line: {
+                    color: 'purple', // Use a different color for the horizontal line
+                },
+                showlegend: false
+            };
+
+            // Adjust the values based on your actual data
+            var trace4 = {
+                x: [sollicitations, sollicitations],
+                y: [0, 50],
+                mode: 'lines',
+                line: {
+                    color: 'purple', // Use a different color for the vertical line
+                },
+                showlegend: false
+            };
+
+            // Set layout
+            var layout = {
+                title: 'Votre fenêtre de Johari :',
+                xaxis: {
+                    title: {
+                        text: 'Sollicitations de retours',
+                        font: {
+                            color: 'rgb(255, 102, 179)' // Set the x-axis title font color to pink
+                        },
+                    },
+                    range: [0, 50],
+                    showline: true,
+                    linewidth: 2,
+                    linecolor: 'black',
+                    mirror: true, // This will make the axis line mirrored on the opposite side
+                },
+
+                yaxis: {
+                    title: {
+                        text: 'Révélation d informations sur vous / Donner son avis',
+                        font: {
+                            color: 'rgb(255, 102, 179)' // Set the x-axis title font color to pink
+                        },
+                    },
+                    range: [0, 50],
+                    showline: true,
+                    linewidth: 2,
+                    linecolor: 'black',
+                    mirror: true, // This will make the axis line mirrored on the opposite side
+                },
+
+                width: 500, // Set the width to the desired value
+                height: 500 // Set the height to the same value as the width
+            };
+
+            // Plot data
+            Plotly.newPlot('plot', [trace3, trace4], layout);
+            console.log("ploted!");
+        }
+    </script>
+</body>
+
+</html>

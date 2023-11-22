@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Questionnaire Fenetre de Johari </title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="img_container">
+            <img src="static\img2.jpeg" class="img">
+        </div>
+        <div class="container">
+            <div class="form-wrapper">
+                <div class="form-group">
+
+                    <div class="conflict-container">
+                        <div class="conflict-text" id="q">
+                            Loading question..
+                        </div>
+                
+                        <div class="option" id="a1">
+                            <label class="option-label">A. </label>
+                            <div class="option-content">
+                                Loading first answer..
+                            </div>
+                        </div>
+                
+                        <div class="option" id="a2">
+                            <label class="option-label">B.</label>
+                            <div class="option-content">
+                                Loading second answer..
+                            </div>
+                        </div>
+                        <div class="spacer">
+
+                        </div>
+                        <div class="answer">
+                            <label class="answer-label answer-label-A">A</label>
+                            <input type="range" name="Q1" min="0" max="5" value="0" oninput="updateSlider(this.value)">
+                            <label class="answer-label answer-label-B">B</label>
+                        </div>
+                        
+                        <div class="navigation-buttons">
+                            <button type="button" onclick="next()">Next</button>
+                        </div>
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js" ></script>
+</body>
+</html>

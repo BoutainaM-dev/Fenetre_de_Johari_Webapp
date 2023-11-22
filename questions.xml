@@ -1,0 +1,122 @@
+<questions>
+    <question>
+            <text>L&apos;un(e) de mes ami(e)s est en conflit avec une connaissance commune, et parce que je pense qu&apos;il est important pour eux de mieux s&apos;entendre, je :</text>
+            <reponse1>Je dis à mon ami que je me sens en partie responsable de son ressentiment envers l&apos;autre personne, et je lui fais savoir que notre connaissance commune en souffre aussi.</reponse1>
+            <reponse2>Je ne cherche pas à m&apos;impliquer, parce que je ne pourrais plus m&apos;entendre avec mon ami(e) et cette connaissance si je prends part à leur conflit.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l'un(e) de mes ami(e)s et moi avions eu une dispute animée par le passé, et que je réalisais qu&apos;il/elle se sent mal à l'aise d&apos;être en ma présence depuis ce moment-là, je :</text>
+            <reponse1>Je ne cherche pas à aborder le sujet avec lui/elle car je pense que ce seraencore pire en rediscutant avec lui/elle.</reponse1>
+            <reponse2>Je tente de parler de son comportement actuel et je lui demande son ressenti sur notre relation actuelle depuis ce jour-là.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l&apos;un(e) de mes ami(e)s est en train de m&apos;éviter et à être distant(e), je :</text>
+            <reponse1>Je lui parle de son comportement actuel et lui demande ce qui la motive à agir de la sorte.</reponse1>
+            <reponse2>Je fais la même chose que lui/elle, et j&apos;échangerai avec elle un minimum puisque c&apos;est ce qu&apos;il/elle souhaite.</reponse2>
+    </question>
+
+    <question>
+            <text>Si, pendant une discussion avec deux de mes amis, l&apos;un d&apos;entre eux dévoile par inadvertance un problème personnel impliquant mon autre ami, qui n&apos;était pas au courant de cela, je :</text>
+            <reponse1>Je change rapidement de sujet et signalerait à mon autre ami d&apos;en faire de même.</reponse1>
+            <reponse2>Je tente brièvement d&apos;expliquer la situation à mon ami concerné en lui suggérant que nous en reparlerons plus tard.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l&apos;un(e) de mes ami(e)s me dit que, selon lui/elle, j&apos;ai eu un comportement en public qui pourrait me desservir à l&apos;avenir, je :</text>
+            <reponse1>Je lui demande de me décrire ce qu&apos;il/elle a observé, et des changements que je pourrais appliquer.</reponse1>
+            <reponse2>Je lui reproche le fait de m&apos;avoir critiqué, et je lui ferais savoir pourquoi j&apos;ai agi de la sorte.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l&apos;un(e) de mes ami(e)s aspire à être embauché(e) dans mon entreprise mais que je pense qu&apos;il/elle n&apos;est pas assez qualifié pour le poste, et que malgré tout mon patron l&apos;a pris(e) à l&apos;essai pour ce même poste, je :</text>
+            <reponse1>Je ne parle pas de mes réticences avec mon ami(e) ni à mon patron et je les laisse gérer cela entre eux.</reponse1>
+            <reponse2>Je fais part de mes réticences sur le sujet à mon ami et à mon patron, puis je leur laisse prendre la décision finale.</reponse2>
+    </question>
+
+    <question>
+            <text>Si je ressens que l&apos;un(e) de mes ami(e)s est injuste avec moi et ses autres amis, mais qu&apos;aucun d&apos;entre eux n&apos;a jamais abordé le sujet, je :</text>
+            <reponse1>Je demande à ses autres amis comment ils perçoivent la situation, pour voir s&apos;ils ressentent eux aussi cette injustice.</reponse1>
+            <reponse2>Je ne demande pas aux autres comment ils perçoivent la situation, mais j&apos;attends qu&apos;ils abordent le sujet en ma présence.</reponse2>
+    </question>
+
+    <question>
+            <text>Si je suis préoccupé par des problèmes personnels et qu&apos;un(e) ami(e) me faisait remarquer que je m&apos;étais énervé contre lui/elle et d&apos;autres personnes, et que je lui ai fait des reproches pour des détails sans importance, je :</text>
+            <reponse1>Je lui dis que je suis préoccupé par quelque chose et que je serais probablement sur les nerfs durant un certain temps.</reponse1>
+            <reponse2>J&apos;écoute ses plaintes mais je ne cherche pas à m&apos;expliquer devant lui/elle.</reponse2>
+    </question>
+
+    <question>
+            <text>Si j&apos;ai entendu des ami(e)s à moi discuter d&apos;une vilaine rumeur sur l&apos;un(e) de mes ami(e)s, et que je sais que cela le/la blesserait ; et qu&apos;il/elle me demande si je suis au courant de cela, je :</text>
+            <reponse1>Je dis que je ne sais rien de cela, et que de toute façon nos ami(e)s ne croiraient jamais à des rumeurs aussi horribles.</reponse1>
+            <reponse2>Je lui dirais exactement ce que j&apos;ai entendu, quand je l&apos;ai entendu et de qui je l&apos;ai entendu.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l&apos;un(e) de mes ami(e)s pointait du doigt un conflit que j&apos;avais avec un(e) autre ami(e), et qu&apos;il était pour lui/elle que nous nous entendions, je :</text>
+            <reponse1>Je considère ses commentaires comme déplacés et je lui dis que je ne souhaite pas en parler.</reponse1>
+            <reponse2>Je lui dis ouvertement que ce conflit me pèse et lui demande des conseils pour le résoudre.</reponse2>
+    </question>
+
+    <question>
+            <text>Si ma relation avec un(e) ami(e) s&apos;est détériorée à force de disputes au sujet d&apos;un problème important pour nous deux, je :</text>
+            <reponse1>Je ferais attention dans mes discussions avec lui/elle, à ne pas aborder le sujet et ainsi à éviter d&apos;endommager un peu plus notre relation.</reponse1>
+            <reponse2>Je lui expliquerais que ce problème est en train de faire du tort à notre relation, et que nous devons en discuter jusqu&apos;à ce que ce soit résolu.</reponse2>
+    </question>
+
+    <question>
+            <text>Si durant une conversation avec un(e) ami(e) au sujet de ses problèmes personnels et de son comportement récent, il/elle suggère soudainement que nous devrions aussi discuter de mes propres problèmes et comportement, je :</text>
+            <reponse1>Je reste évasif et je cherche à changer de sujet pour éviter de parler de moi.</reponse1>
+            <reponse2>Je la remercie de me donner l&apos;opportunité d&apos;entendre ce qu&apos;elle ressent à mon sujet et je l&apos;encourage à développer.</reponse2>
+    </question>
+
+    <question>
+            <text>Si l&apos;un(e) de mes ami(e)s me parle de son animosité vis-à-vis de l&apos;un(e) de mes ami(e)s, parce qu&apos;il/elle ne se comporte pas correctement avec les autres (et que je suis d&apos;accord), je :</text>
+            <reponse1>Je l&apos;écoute et je partage avec il/elle mes propres sentiments vis-à-vis de mon ami(e), pour qu&apos;il/elle sache que je suis aussi de son côté.</reponse1>
+            <reponse2>Je l&apos;écoute, mais je n&apos;exprime pas mes propres sentiments négatifs, ni mon opinion parce qu&apos;il/elle pourrait répéter ce que je lui ai dis à d&apos;autres, en secret.</reponse2>
+    </question>
+
+    <question>
+            <text>Si je pense qu&apos;une vilaine rumeur sur moi a été répandue et que je soupçonne l&apos;un(e) de mes ami(e)s de l&apos;avoir entendu, je :</text>
+            <reponse1>J&apos;évite d&apos;en parler et je lui laisse l&apos;opportunité d&apos;aborder le sujet, s&apos;il ou elle le souhaite.</reponse1>
+            <reponse2>Je prends le risque de le/la mettre dans l&apos;embarras en lui demandant s&apos;il ou elle a entendu parler de cette rumeur.</reponse2>
+    </question>
+
+    <question>
+            <text>Si je remarque qu&apos;un(e) ami(e) dans un contexte social, et que je pense qu&apos;il ou elle est en train de faire un certain nombre de choses qui pourraient détériorer ses relations avec les autres, je :</text>
+            <reponse1>Je prends le risque d&apos;être un(e) rabat-joie et je lui dis ce que je remarque et mes sentiments à ce propos.</reponse1>
+            <reponse2>Je garde mon opinion pour moi plutôt que d&apos;être perçu comme un rabat-joie qui se mêle des affaires des autres.</reponse2>
+    </question>
+
+    <question>
+            <text>Si moi et deux de mes ami(e)s sommes en train de discuter et que l&apos;un d&apos;entre eux se met à mentionner par inadvertance un problème personnel qui me concerne, mais dont je ne savais rien, je :</text>
+            <reponse1>Je leur met la pression pour savoir ce qu&apos;ils/elles m&apos;ont caché sur le problème et leurs opinions sur le sujet.</reponse1>
+            <reponse2>Je décide de laisser mes ami(e)s m&apos;en parler ou non, et je les laisse changer de sujet s&apos;ils/elles le souhaitent.</reponse2>
+    </question>
+
+    <question>
+            <text>Si un(e) ami(e) semble préoccupé et commence à me faire des reproches pour des choses sans importance, de même qu&apos;à d&apos;autres ami(e)s en commun, je :</text>
+            <reponse1>Je fais preuve d&apos;encore plus de tact et de gentillesse pendant un temps, en supposant qu&apos;il/elle traverse des problèmes temporairement, qui n&apos;ont rien à voir avec moi.</reponse1>
+            <reponse2>Je tente de lui en parler en lui expliquant comment son comportement impacte aussi les autres.</reponse2>
+    </question>
+
+    <question>
+            <text>Si je commence à détester certaines habitudes d&apos;un(e) ami(e) au point que je n&apos;apprécie plus sa compagnie, je :</text>
+            <reponse1>Je ne lui dis rien directement, mais je lui fait connaître mes sentiments en l&apos;ignorant chaque fois que ses désagréables manies deviennent flagrantes.</reponse1>
+            <reponse2>Je révèle mes émotions au grand jour et je clarifie les choses avec lui/elle,pour que nous puissions continuer à vivre notre amitié agréablement.</reponse2>
+    </question>
+
+    <question>
+            <text>En discutant d&apos;un comportement social qui concerne un(e) ami(e) très sensible, je :</text>
+            <reponse1>J&apos;évite de parler de ses travers et défauts pour ne pas le/la blesser.</reponse1>
+            <reponse2>Je me concentre sur ses travers et défauts pour qu&apos;il/elle puisse améliorer ses compétences en communication</reponse2>
+    </question>
+
+    <question>
+            <text>Si je sais que l&apos;attitude d&apos;un(e) ami(e) vis-à-vis de moi devient plutôt négative ces derniers temps, et que je vais recevoir prochainement une importante promotion pour mon emploi, je :</text>
+            <reponse1>Je vais discuter de mes lacunes avec mon ami(e) pour comprendre sur quoi je pourrais m&apos;améliorer.</reponse1>
+            <reponse2>Je tente moi-même de comprendre mes propres lacunes pour me permettre de m&apos;améliorer.</reponse2>
+    </question>
+
+</questions>
