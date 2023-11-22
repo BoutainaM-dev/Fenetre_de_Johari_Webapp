@@ -10,6 +10,13 @@ body {
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 839px) {
+    .img_container {
+        display: none;
+    }
+}
+
 .main-container{
     display: flex;
 
